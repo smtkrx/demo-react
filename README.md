@@ -1,3 +1,6 @@
+![image](https://github.com/smtkrx/demo-react/assets/96293740/48d8cf67-93dd-42b6-bed1-fdc889e5387c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
